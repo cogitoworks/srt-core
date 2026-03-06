@@ -4,7 +4,7 @@
 
 **Author:** cogitoworks  
 **Version:** 0.6  
-**Date:** 2025-03  
+**Date:** 2026-03  
 **License:** CC BY-SA 4.0
 
 ---
