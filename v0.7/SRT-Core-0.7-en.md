@@ -419,7 +419,7 @@ Fifth, developing pre-reception expectation-value auditing. How to handle author
 
 Sixth, sub-differentiation of Border. Under what conditions Core-leaning Border and Outer-leaning Border can be stably introduced remains an open issue.
 
-Seventh, establishing a standard format for audit-memo-type output. How far to formalize must be determined while balancing operability against rigidification risk.
+Seventh, establishing a standard format for audit-memo-type output. How far to formalize must be determined while balancing operability against rigidification risk. (→ Initially addressed with Audit Note Template v0.1. See templates/audit-note-v0.1.md. 2026-03-16)
 
 Eighth, the problem of where to position the equilibrium between theoretical consistency and operational viability, given that residual circularity is presupposed, remains.
 
